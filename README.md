@@ -82,13 +82,69 @@ Currently pursuing postgraduate studies with a focus on data science, artifical 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asnifapk-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asnifapk-rgb&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asnifapk-rgb&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asnifapk-rgb&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asnifapk-rgb&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asnifapk-rgb&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asnifapk-rgb&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asnifapk-rgb&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=asnifapk-rgb&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asnifapk-rgb&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/asnifapk-rgb/asnifapk-rgb/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=asnifapk-rgb&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/asnifapk-rgb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asnifa-p-k-6a00a9255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ## 🌱 Currently Learning
 
