@@ -24,35 +24,42 @@ Here are some ideas to get you started:
 🎯 Interested in Software Engineering, AI Applications, Testing Automation, and Research-Based Projects
 
 ---
+🚀 Tech Stack
 
-## 🚀 Skills
+Programming Languages
+Python
+Java
+C
+JavaScript
 
-### Programming Languages
+Frontend
+HTML5
+CSS3
+JavaScript
+React.js
 
-* C
-* C++
-* Java
-* Python
-* JavaScript
+Backend
+Node.js
+Express.js
 
-### Web Development
+Database
+MongoDB
+MySQL
 
-* HTML
-* CSS
-* JavaScript
-* React (Learning)
+AI & Data Science
+NumPy
+Pandas
+Scikit-learn
+OpenCV
+TensorFlow (Learning)
 
-### Databases
+Tools
+Git
+GitHub
+VS Code
+Postman
+Arduino IDE
 
-* MySQL
-* SQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
 
 ### Areas of Interest
 
@@ -68,8 +75,10 @@ Here are some ideas to get you started:
 ## 📖 Education
 
 **Bachelor of Technology (B.Tech) – Computer Science and Engineering**
+**Master of Technology (M.Tech) – Computer Science and Engineering with specilisation Data science and Artifical Intelligence**
 
-Currently pursuing undergraduate studies with a focus on software development, programming, and emerging technologies.
+Currently pursuing postgraduate studies with a focus on data science, artifical intelligence, programming and emerging technologies.
+
 
 ---
 
@@ -90,6 +99,13 @@ Currently pursuing undergraduate studies with a focus on software development, p
 * Competitive Programming
 
 ---
+🏆 Leadership
+
+IEDC Co-Women Entrepreneur Lead
+TinkerHub Program Facilitator
+NSS Volunteer Secretary
+
+These roles strengthened my leadership, communication, teamwork, and event management skills while mentoring peers and promoting innovation.
 
 ## 🏆 Achievements
 
@@ -100,27 +116,35 @@ Currently pursuing undergraduate studies with a focus on software development, p
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
+📝 Blog Application (MERN Stack)
+Authentication
+CRUD Operations
+Dashboard
+Responsive UI
+JWT Security
 
-### Project 1
+Tech: React • Node.js • Express • MongoDB
 
-Brief description of your project.
+📚 College Resource Sharing Platform
 
-### Project 2
+A web platform for sharing academic resources among students and faculty.
 
-Brief description of your project.
+Tech: HTML • CSS • Python • MySQL
 
-### Project 3
+🌿 BreathSafe
 
-Brief description of your project.
+Smart gas monitoring system using ESP32 and gas sensors for real-time toxic gas detection with audio alerts.
 
----
+Tech: ESP32 • Arduino IDE • Gas Sensors • DFPlayer
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Email: YOUR_EMAIL
+📧 Email: asnifakunjumuhammed@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/asnifa-p-k-6a00a9255
+
+🐙 GitHub: https://github.com/asnifapk-rgb
 
 ---
 
