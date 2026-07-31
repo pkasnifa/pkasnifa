@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🎯 Interested in Software Engineering, AI Applications, Testing Automation, and Research-Based Projects
 
 ---
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 Programming Languages
 Python
@@ -99,7 +99,7 @@ Currently pursuing postgraduate studies with a focus on data science, artifical 
 * Competitive Programming
 
 ---
-🏆 Leadership
+## 🏆 Leadership
 
 IEDC Co-Women Entrepreneur Lead
 TinkerHub Program Facilitator
@@ -116,7 +116,8 @@ These roles strengthened my leadership, communication, teamwork, and event manag
 
 ---
 
-📂 Featured Projects
+## 📂 Featured Projects
+
 📝 Blog Application (MERN Stack)
 Authentication
 CRUD Operations
@@ -138,7 +139,7 @@ Smart gas monitoring system using ESP32 and gas sensors for real-time toxic gas 
 
 Tech: ESP32 • Arduino IDE • Gas Sensors • DFPlayer
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: asnifakunjumuhammed@gmail.com
 
