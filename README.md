@@ -109,11 +109,7 @@ Currently pursuing postgraduate studies with a focus on data science, artifical 
 </p>
 
 ---
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asnifapk-rgb&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-</p>
 
 ## 📈 Contribution Graph
 
