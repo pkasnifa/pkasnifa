@@ -75,6 +75,7 @@ Arduino IDE
 ## 📖 Education
 
 **Bachelor of Technology (B.Tech) – Computer Science and Engineering**
+
 **Master of Technology (M.Tech) – Computer Science and Engineering with specilisation Data science and Artifical Intelligence**
 
 Currently pursuing postgraduate studies with a focus on data science, artifical intelligence, programming and emerging technologies.
@@ -120,17 +121,7 @@ Currently pursuing postgraduate studies with a focus on data science, artifical 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asnifapk-rgb&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/asnifapk-rgb/asnifapk-rgb/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=asnifapk-rgb&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ## 💻 Coding Profiles
 
